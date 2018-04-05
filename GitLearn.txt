@@ -11,4 +11,4 @@ git log		查看提交的日志
 git reset --hard head^
 				 id
 git track changes of files new
-git checkout -- filename.ad
+git checkout -- filename.ad  可以撤回文件修改，也可以找回删除的文件
