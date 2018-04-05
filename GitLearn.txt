@@ -10,4 +10,4 @@ git log		查看提交的日志
 	--pretty	简版
 git reset --hard head^
 				 id
-git track changes
+git track changes of files
