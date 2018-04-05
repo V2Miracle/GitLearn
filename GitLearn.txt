@@ -2,3 +2,9 @@ cd			进入目录
 mkdir		创建目录
 pwd			显示当前目录
 git init	初始化库
+git add		添加文件
+git commit -m ""	提交文件
+git status	查看仓库文件状态
+git diff	查看文件修改内容
+git log		查看提交的日志
+	--pretty	简版
