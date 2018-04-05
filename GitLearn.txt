@@ -1,0 +1,4 @@
+cd			进入目录
+mkdir		创建目录
+pwd			显示当前目录
+git init	初始化库
