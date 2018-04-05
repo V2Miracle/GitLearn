@@ -11,4 +11,4 @@ git log		查看提交的日志
 git reset --hard head^
 				 id
 git track changes of files new
-My stupid boss still prefers SVN.
+git checkout -- filename.ad
